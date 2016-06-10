@@ -55,7 +55,7 @@
 int main ( int argc, char** argv )
 {
   QApplication app ( argc, argv );
-  SamuLife samulife ( 21, 1 );
+  SamuLife samulife ( 15, 1 );
   samulife.show();
   return app.exec();
 }
