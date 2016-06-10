@@ -5,7 +5,7 @@ In this experiment Samu learns the transition rules of a Turing machine. The exp
 
 ## SamuKnows, exp. 11, cognitive mental organs: MPU (Mental Processing Unit)
 This experiment is an example of the paper entitled "Samu Has Learned Turing Machines".
-
+http://arxiv.org/abs/1606.02767
 
 ## Usage
 
