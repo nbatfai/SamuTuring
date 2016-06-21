@@ -77,3 +77,8 @@ https://github.com/nbatfai/Robopsychology
 
 Samu C. Turing
 https://github.com/nbatfai/SamuCTuring
+
+---
+
+SamuSmartCity
+https://github.com/nbatfai/SamuSmartCity
